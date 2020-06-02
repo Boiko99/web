@@ -1,0 +1,83 @@
+[13040:18612:2020-4-6 19:31:23.346] Main Start
+[13040:18612:2020-4-6 19:31:23.346] Command line:"D:\Travel\psd\images\franik\Zoom_o42l8sofizku_c8d61b284914d5b4.exe"  Instance:0xF40000 Show State:1
+[13040:18612:2020-4-6 19:31:23.572] D:\
+[13040:792:2020-4-6 19:31:23.580] [process_requst] start, url:https://us04launcher.zoom.us/conf/pui
+[13040:18612:2020-4-6 19:31:23.585] [client_has_installed_app] found path:
+[13040:18612:2020-4-6 19:31:23.585]  ***NULL-POINTER-PLACEHOLDER***
+[13040:18612:2020-4-6 19:31:23.586] [param_query_local_path] path is: C:\Users\my comp\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[13040:18612:2020-4-6 19:31:23.586] [downloader_run] State:0
+[13040:11940:2020-4-6 19:31:23.588] [process_requst] start, url:https://us04launcher.zoom.us/upgrade?os=win
+[13040:11940:2020-4-6 19:31:24.591] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[13040:11940:2020-4-6 19:31:24.591] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[13040:792:2020-4-6 19:31:24.591] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[13040:792:2020-4-6 19:31:24.591] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[13040:11940:2020-4-6 19:31:24.592] [log_response_content] Content length (1048576 as unknown):606 , Total read: 606 , Error No: 0 , Status code: 200
+[13040:792:2020-4-6 19:31:24.592] [log_response_content] Content length (1048576 as unknown):1456 , Total read: 1456 , Error No: 0 , Status code: 200
+[13040:11940:2020-4-6 19:31:24.592] [log_response_content] header:
+[13040:792:2020-4-6 19:31:24.592] [log_response_content] header:
+[13040:11940:2020-4-6 19:31:24.592] HTTP/1.1 200 
+Date: Mon, 06 Apr 2020 16:31:24 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 606
+Connection: keep-alive
+Server: ZOOM
+x-zm-trackingid: WEB_68e76a1d42a5df06905d5d07bec98b11
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https: safari-extension: blob: data: 'self'; script-src 'unsafe-eval' 'unsafe-inline' blob: about: https://*.criteo.com https://static.criteo.net https://*.linkedin.com https://*.cmptch.com https://*.dca0.com https://*.zoomcloudpbx.com https://p.adsymptotic.com https://autocomplete.demandbase.com https://static-resource.com https://cdn-javascript.net https://domclickext.xyz https://datapro.website https://secure.mycouponsmartmac.com https://rasenalong.com https://s.pmddby.com https://programdiag.com https://gateway.zscalertwo.net https://gateway.zscalertwo.net https://cdn-js.net https://*.50million.club https://*.adroll.com https://*.cloudfront.net https://*.google.com https://*.hotjar.com https://*.zoom.us https://*.zoomus.cn https://*.zopim.com https://ad.lkqd.net https://ajax.aspnetcdn.com https://apiurl.org https://appsforoffice.microsoft.com https://assets.zendesk.com https://bat.bing.com https://cdn.5bong.com https://cdn.jsdelivr.net https://cdncache-a.akamaihd.net https://code.jquery.com https://connect.facebook.net https://consent.trustarc.com https://extnetcool.com https://fp166.digitaloptout.com https://googleads.g.doubleclick.net https://intljs.rmtag.com https://pi.pardot.com https://ruanshi2.8686c.com https://rum-static.pingdom.net https://s.dcbap.com https://s.yimg.com https://s.ytimg.com https://s3.amazonaws.com https://scout-cdn.salesloft.com https://sealserver.trustwave.com https://secure-cdn.mplxtms.com https://secure.myshopcouponmac.com https://snap.licdn.com https://sp.analytics.yahoo.com https://srvvtrk.com https://static.zdassets.com https://static2.sharepointonline.com https://tag.demandbase.com https://tpc.googlesyndication.com https://tracking.g2crowd.com https://*.googleapis.com https://trk.techtarget.com https://unpkg.com https://www.comeet.co https://www.dropbox.com https://www.google-analytics.com https://www.googleadservices.com https://www.googletagmanager.com https://www.gstatic.com https://www.youtube.com https://*.ada.support 'self'; img-src https: http: about: blob: data: 'self'; style-src https: http: safari-extension: 'unsafe-inline' data: 'self'; font-src https: http: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * blob: data: 'self'; frame-src https: http: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; report-uri /csp/report
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=19ADD8F3BDFFFBD03CCFAF9151ED24D4; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us04_c_H4RHoxhJRb6AAB1B8d92iQ; Domain=.zoom.us; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=us04_c__UIFL-HxRyGG_syeYETMvg; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=Ye-K1bhJR-Wk2fm3PpJU_A.1586190684292.5302e46e8087a23217d28d539f428d55; Domain=.zoom.us; Expires=Mon, 06-Apr-2020 18:31:24 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=643; Domain=.zoom.us; Expires=Mon, 06-Apr-2020 18:31:24 GMT; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+[13040:792:2020-4-6 19:31:24.592] HTTP/1.1 200 
+Date: Mon, 06 Apr 2020 16:31:24 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1456
+Connection: keep-alive
+Server: ZOOM
+x-zm-trackingid: WEB_d2ad093fdc885f3701178ceb8a6f8c57
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https: safari-extension: blob: data: 'self'; script-src 'unsafe-eval' 'unsafe-inline' blob: about: https://*.criteo.com https://static.criteo.net https://*.linkedin.com https://*.cmptch.com https://*.dca0.com https://*.zoomcloudpbx.com https://p.adsymptotic.com https://autocomplete.demandbase.com https://static-resource.com https://cdn-javascript.net https://domclickext.xyz https://datapro.website https://secure.mycouponsmartmac.com https://rasenalong.com https://s.pmddby.com https://programdiag.com https://gateway.zscalertwo.net https://gateway.zscalertwo.net https://cdn-js.net https://*.50million.club https://*.adroll.com https://*.cloudfront.net https://*.google.com https://*.hotjar.com https://*.zoom.us https://*.zoomus.cn https://*.zopim.com https://ad.lkqd.net https://ajax.aspnetcdn.com https://apiurl.org https://appsforoffice.microsoft.com https://assets.zendesk.com https://bat.bing.com https://cdn.5bong.com https://cdn.jsdelivr.net https://cdncache-a.akamaihd.net https://code.jquery.com https://connect.facebook.net https://consent.trustarc.com https://extnetcool.com https://fp166.digitaloptout.com https://googleads.g.doubleclick.net https://intljs.rmtag.com https://pi.pardot.com https://ruanshi2.8686c.com https://rum-static.pingdom.net https://s.dcbap.com https://s.yimg.com https://s.ytimg.com https://s3.amazonaws.com https://scout-cdn.salesloft.com https://sealserver.trustwave.com https://secure-cdn.mplxtms.com https://secure.myshopcouponmac.com https://snap.licdn.com https://sp.analytics.yahoo.com https://srvvtrk.com https://static.zdassets.com https://static2.sharepointonline.com https://tag.demandbase.com https://tpc.googlesyndication.com https://tracking.g2crowd.com https://*.googleapis.com https://trk.techtarget.com https://unpkg.com https://www.comeet.co https://www.dropbox.com https://www.google-analytics.com https://www.googleadservices.com https://www.googletagmanager.com https://www.gstatic.com https://www.youtube.com https://*.ada.support 'self'; img-src https: http: about: blob: data: 'self'; style-src https: http: safari-extension: 'unsafe-inline' data: 'self'; font-src https: http: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * blob: data: 'self'; frame-src https: http: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; report-uri /csp/report
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=B6F4D88E8B40690382B0BB89EAD896A1; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us04_c_h5__oOb0Ry28DLOCK1T7Ww; Domain=.zoom.us; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=us04_c_CQRqH7BbQai4HlkaIms7bg; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=mWN4PHtJQ5yyqnzEZTj8YA.1586190684290.8659c64bfd4d0c8a2cdf909858e70051; Domain=.zoom.us; Expires=Mon, 06-Apr-2020 18:31:24 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=950; Domain=.zoom.us; Expires=Mon, 06-Apr-2020 18:31:24 GMT; Path=/; Secure; HttpOnly
+Cache-Control: no-cache, no-store
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+[13040:11940:2020-4-6 19:31:24.592] [process_requst] End for url:https://us04launcher.zoom.us/upgrade?os=win, return code:200, Error:0, Response content size:606
+[13040:792:2020-4-6 19:31:24.592] [process_requst] End for url:https://us04launcher.zoom.us/conf/pui, return code:200, Error:0, Response content size:1456
+[13040:18612:2020-4-6 19:31:24.625] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 200 Error: 0 Response: 
+[13040:18612:2020-4-6 19:31:24.625] Check-sum=630007a5fdef01e5c9f7256c622b9901;VCRed-sum=5689d43c3b201dd3810fa3bba4a6476a;fullmsi-sum=0773fc58320181b95ce9f3b32348397c;fullcab-sum=703bcf58e85fe18bd4d44896a8146c5b;fullsip-sum=86bd4ce014c7a48a9afa035c2aa6cce9;Installer-sum=105ddd11bccefab6593d2789fc7aeb74;Update-Option=1;Current-version=4.6.19253.0401;Download-root=https://us04launcher.zoom.us/client;Package-url=https://us04launcher.zoom.us/client/4.6.19253.0401/Zoom.msi?t=atupg;Package-name=Zoom.msi;Installer-name=Installer.exe;ahcab-name=Airhost.CAB;sipcab-name=Sipcall.CAB;codesnippet-name=codesnippet_win.zip;fullcab-name=ZoomFull.CAB;
+[13040:11940:2020-4-6 19:31:24.625] [process_requst] start, url:https://us04launcher.zoom.us/client/4.6.19253.0401/Installer.exe?t=atupg
+[13040:18612:2020-4-6 19:31:24.626] [client_has_installed_app] found path:
+[13040:18612:2020-4-6 19:31:24.626]  ***NULL-POINTER-PLACEHOLDER***
+[13040:11940:2020-4-6 19:31:25.956] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[13040:11940:2020-4-6 19:31:25.957] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[13040:11940:2020-4-6 19:31:26.382] [read_response_file] Status Code:200, content length: 626520, total read: 626520, error code: 0
+[13040:11940:2020-4-6 19:31:26.401] [process_requst] End for url:https://us04launcher.zoom.us/client/4.6.19253.0401/Installer.exe?t=atupg, return code:200, Error:0, Response content size:0
+[13040:18612:2020-4-6 19:31:26.438] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 200 Error: 0 Response is Empty. 
+[13040:11940:2020-4-6 19:31:26.867] [process_requst] start, url:https://us04launcher.zoom.us/client/4.6.19253.0401/Zoom.msi?t=atupg
+[13040:18612:2020-4-6 19:31:27.186] [downloader_cancel] State:1
+[13040:11940:2020-4-6 19:31:27.591] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[13040:11940:2020-4-6 19:31:27.591] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[13040:11940:2020-4-6 19:31:27.602] [read_response_file] Status Code:200, content length: 10893644, total read: 16384, error code: 1011
+[13040:11940:2020-4-6 19:31:27.609] [process_requst] End for url:https://us04launcher.zoom.us/client/4.6.19253.0401/Zoom.msi?t=atupg, return code:200, Error:1011, Response content size:0
+[13040:18612:2020-4-6 19:31:27.655] Main End
