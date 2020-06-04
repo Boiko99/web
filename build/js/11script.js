@@ -1,5 +1,4 @@
-
-let cards = document.querySelectorAll('.banner-slider .cards');
+let cards = document.querySelectorAll('.banner-slider .cards')
 let current = 0;
 let timer;
 // function Autotimer(){

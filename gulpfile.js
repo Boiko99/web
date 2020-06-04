@@ -65,9 +65,9 @@ gulp.task('scripts', () => {
       //Объединение файлов в один
       .pipe(concat('script.js'))
       //Минификация JS
-      .pipe(uglify({
-         toplevel: true
-      }))
+      // .pipe(uglify({
+      //    toplevel: true
+      // }))
       //Выходная папка для скриптов
       .pipe(gulp.dest('./build/js'))
       .pipe(browserSync.stream());
